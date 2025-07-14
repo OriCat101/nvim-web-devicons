@@ -476,4 +476,6 @@ return {
   ["zsh"]            = { icon = "", color = "#89E051", cterm_color = "113", name = "Zsh"                        },
   ["zst"]            = { icon = "", color = "#ECA517", cterm_color = "214", name = "Zst"                        },
   ["🔥"]             = { icon = "", color = "#FF4C1F", cterm_color = "196", name = "Mojo"                       },
+  ["cfm"]             = { icon = "", color = "#01A4BA", cterm_color = "87", name = "ColdFusionTag"              },
+  ["cfc"]             = { icon = "", color = "#01A4BA", cterm_color = "87", name = "ColdFusionScript"           },
 } --[[@as table<string, Icon>]]
